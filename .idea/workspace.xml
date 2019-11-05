@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="920d9538-4816-4ac0-b8d8-decdf199256f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TDDe9WOCugbZya3TEMbiWOtgpi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552015947563" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nicog\Desktop\Task-Planner-React-PWA\public\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="920d9538-4816-4ac0-b8d8-decdf199256f" name="Default Changelist" comment="" />
+      <created>1550802573017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550802573017</updated>
+      <workItem from="1550802574622" duration="6284000" />
+      <workItem from="1551027968335" duration="28370000" />
+      <workItem from="1551213945457" duration="20824000" />
+      <workItem from="1551386919925" duration="450000" />
+      <workItem from="1551387579086" duration="12447000" />
+      <workItem from="1551542007661" duration="9589000" />
+      <workItem from="1551712898487" duration="4303000" />
+      <workItem from="1551744543039" duration="11547000" />
+      <workItem from="1551923641443" duration="5876000" />
+      <workItem from="1551991327748" duration="602000" />
+      <workItem from="1552000776869" duration="11269000" />
+      <workItem from="1552329127246" duration="659000" />
+      <workItem from="1552401462217" duration="20614000" />
+      <workItem from="1552854361503" duration="12458000" />
+      <workItem from="1552916956300" duration="4052000" />
+      <workItem from="1553962766681" duration="1708000" />
+      <workItem from="1554061753967" duration="9463000" />
+      <workItem from="1554131071209" duration="7615000" />
+      <workItem from="1572985866402" duration="1255000" />
+    </task>
+    <task id="LOCAL-00001" summary="New task creation fixed">
+      <created>1551560159881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551560159881</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Make PWA instalable (android devices)">
+      <created>1551928931833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551928931833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Instalation fixed">
+      <created>1552006718352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552006718352</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Readme updated">
+      <created>1552015939459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552015939459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="API connection implementation">
+      <created>1552420311650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552420311650</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added login security">
+      <created>1552872375808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552872375808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added security to get methods to the api">
+      <created>1552922288120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552922288120</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changes on api connection">
+      <created>1554083324207</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554083324208</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Added firebase and travis implementation" />
+    <MESSAGE value="Changes travis configuration" />
+    <MESSAGE value="Added app Drawer" />
+    <MESSAGE value="New task creation fixed" />
+    <MESSAGE value="Make PWA instalable (android devices)" />
+    <MESSAGE value="Instalation fixed" />
+    <MESSAGE value="Readme updated" />
+    <MESSAGE value="API connection implementation" />
+    <MESSAGE value="Added login security" />
+    <MESSAGE value="Added security to get methods to the api" />
+    <MESSAGE value="Changes on api connection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes on api connection" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
